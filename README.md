@@ -1,3 +1,7 @@
-View this project on [CADLAB.io](https://cadlab.io/project/24195). 
+DESIGN STATUS: Awaiting Testing - Ready for beta testing
 
-# PureLFO
+LFO Updated to V2.2 20/4/21
+
+Traces rerouted.
+Trimmers replaced to PTH.
+Schmitt Trigger error corrected.
